@@ -9,11 +9,6 @@ Project Outline:
 
 Decision trees gave best recall score, at 57.67%. In the next part of the project, I apply more advanced algorithms to obtain a higher recall score.
 
-5) Machine Learning Algorithms, Part II:
-  a. Hard & Soft Voting Classifiers
-  b. Bagging, Pasting, Adaboosting
-  c. Gradient Boosting
-  d. PCA
-  e. Deep Learning
+5) Machine Learning Algorithms, Part II - Hard & Soft Voting Classifiers, Bagging, Pasting, Adaboosting, Gradient Boosting, PCA, Neural Networks
 
 This time, Gradient Boosting gave the best recall score, at 70.61%
