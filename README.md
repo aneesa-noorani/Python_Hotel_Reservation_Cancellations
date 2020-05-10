@@ -7,7 +7,9 @@ Project Outline:
 3) Evaluation Metric Decision - chose recall as metric of choice, since we want to minimize false negatives
 4) Machine Learning Algorithms, Part I - KNN, Logistic Regression, Linear SVM, SVM with kernels, Decision Trees
 
-Decision trees gave best recall score, at 57.67%. In the next part of the project, I apply more advanced algorithms to obtain a higher recall score.
+Decision trees gave best recall score, at 57.67%. 
+
+In Part II, I apply more advanced algorithms to obtain a higher recall score.
 
 5) Machine Learning Algorithms, Part II - Hard & Soft Voting Classifiers, Bagging, Pasting, Adaboosting, Gradient Boosting, PCA, Neural Networks
 
